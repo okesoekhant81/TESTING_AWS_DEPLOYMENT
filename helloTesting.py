@@ -1,1 +1,1 @@
-printf "Hello Testing AWS"
+print("Hello Testing AWS")
